@@ -1,0 +1,2 @@
+# PKU_COURSE_TEMPLATE_LATEX
+北京大学课程大作业LATEX模板
